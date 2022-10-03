@@ -1,2 +1,2 @@
 # Python-Projects
- Cool python projects i've done
+ My cool python projects
