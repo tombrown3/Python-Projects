@@ -1,4 +1,4 @@
-n = input('Enter length of the Fibonacci sequence : ')
+n =int(input('Enter length of the Fibonacci sequence : '))
 def fibonacci(n):
     n1,n2 = 0,1
     x = list()
